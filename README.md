@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arief</h1>
 <h3 align="center">Software Engineer | Passionate about Coding & Learning</h3>
 
-- 🔭 I’m currently working on Indonesian Navy as System Analyst
-- 🌱 I’m currently learning **Python, Java, C, PHP**
+- 🔭 I’m currently working on **Indonesian Navy as System Analyst**
+- 🌱 I’m currently learning **Laravel, React, React Native, Electron**
 - 💬 Ask me about **anything related to software engineering**
 - 📫 Reach me at: **ariefn82@gmail.com**
 - 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/arief-nugroho-6521a9179/)
