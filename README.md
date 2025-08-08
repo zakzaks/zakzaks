@@ -18,7 +18,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 
 ---
 
