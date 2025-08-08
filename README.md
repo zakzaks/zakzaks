@@ -11,6 +11,10 @@
 
 ### 🛠️ Tech Stack
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 
 ---
 
