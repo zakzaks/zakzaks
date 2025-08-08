@@ -25,6 +25,3 @@
 ![Arief GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakzaks&show_icons=true&theme=github_dark)
 
 ---
-
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arief-nugroho-6521a9179//)](https://www.linkedin.com/in/arief-nugroho-6521a9179/)
