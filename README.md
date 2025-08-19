@@ -9,15 +9,21 @@
 
 ---
 
-### 🛠️ Tech Stack
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+### 💻 Programming Languages  
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
+
+### ⚙️ Frameworks & Libraries  
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)  
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  
+
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)  
+
+### 🛠️ DevOps / Tools  
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 
 ---
 
