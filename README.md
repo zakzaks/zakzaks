@@ -15,7 +15,6 @@
 
 ### ⚙️ Frameworks & Libraries  
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)  
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 
 ### 🗄️ Databases  
