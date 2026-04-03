@@ -25,7 +25,3 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
----
-
-### 📊 GitHub Stats
-![Arief GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakzaks&show_icons=true&theme=github_dark)
